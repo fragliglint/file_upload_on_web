@@ -306,7 +306,7 @@ if ($folderId !== null) {
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
-            background: #f0f2f5;
+            background: #87CEEB; /* Sky blue background */
         }
         .logout-link {
             text-align: right;
@@ -544,6 +544,7 @@ if ($folderId !== null) {
             color: white;
         }
     </style>
+
 </head>
 <body>
 
